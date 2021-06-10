@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/77fd327a-1e9b-41a5-9d67-897b6daac2c1/resourceGroups/EnterpriseResourceGroup/providers/Microsoft.Web/sites/sateeshpython",
+    "appService.deploySubpath": "."
+}
